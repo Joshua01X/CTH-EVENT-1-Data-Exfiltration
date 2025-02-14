@@ -1,4 +1,4 @@
-# Threat Hunting Investigation: Exposed Devices on the Internet
+# Threat Hunting Investigation: Investigating Data Exfiltration Activity
 
 ## Introduction/Objectives
 As part of an advanced threat-hunting initiative, this project investigates potential security incidents using Microsoft Defender for Endpoint (MDE) within a virtual machine hosted on Microsoft Azure. The primary focus of this investigation is to analyze compromised endpoints, detect Indicators of Compromise (IoCs), and uncover unauthorized activities related to devices exposed to the internet. 
